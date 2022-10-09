@@ -15,6 +15,6 @@ git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:theakali-li/vuepress-study.git master
+git push -f git@github.com:theakali-li/vuepress-study.git master:gh-pages
 
 cd -
